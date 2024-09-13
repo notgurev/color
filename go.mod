@@ -1,4 +1,4 @@
-module color
+module github.com/notgurev/color
 
 go 1.23.0
 
