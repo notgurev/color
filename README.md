@@ -29,3 +29,7 @@ Example:
 ```
 echo "hello" | color red bold
 ```
+
+## See also
+
+- [kurtbuilds/dye](https://github.com/kurtbuilds/dye)
